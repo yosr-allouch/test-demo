@@ -5,3 +5,5 @@ New line from GitHub WebGUI
 
 Added from local repository
 
+ERROR
+
