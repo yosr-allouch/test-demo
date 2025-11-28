@@ -1,3 +1,7 @@
 # test-demo
-Repo GitHub Demo Test 
+
+Repo GitHub Demo Test
 New line from GitHub WebGUI
+
+Added from local repository
+
